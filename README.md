@@ -1,2 +1,2 @@
-# 1-Natours
+# Natours
 Advanced CSS and Sass Udemy Course Project
